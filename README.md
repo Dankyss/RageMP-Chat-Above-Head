@@ -15,4 +15,4 @@ Huge thanks to [heyMad](https://rage.mp/profile/30788-heymad/) and [hartority](h
  
 This resource removes the default rage nametags, I recommend you replace them with [these ones](https://rage.mp/forums/topic/2568-v035-implementing-custom-nametags/)
 
-![Example](https://i.ibb.co/7VzDRYC/ex.png)
+![Example](https://i.ibb.co/7VzDRYC/ex.gif)
