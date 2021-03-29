@@ -1,6 +1,6 @@
 # RageMP Chat Above Head
  
-Made for RAGEMP only tested on 1.1
+Made for RAGEMP only tested on 1.1 (still not approved lol)
 
 [rage.mp post](https://rage.mp/files/file/366-js-chat-messages-above-head-and-typing-indicator/)
 
