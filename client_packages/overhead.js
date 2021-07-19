@@ -8,6 +8,8 @@ const font = 0; // fonts you can use (found here: https://wiki.rage.mp/index.php
 
 let typing_indicator = '(( Typing ))'; // what the typing indicator says
 
+const msgtime = 5000 // how long the message stays up in ms
+
 mp.nametags.enabled = false;
 
 mp.events.add('render', nametags => {
@@ -48,4 +50,10 @@ mp.events.add('render', nametags => {
       }
     }
   });
+});
+
+mp.events.add('Client:runOverheadTimeout', () => {
+  setTimeout(() => {
+    mp.events.callRemote('Server:playerOverheadClear');
+  }, msgtime);
 });
