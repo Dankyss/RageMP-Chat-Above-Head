@@ -1,6 +1,5 @@
 mp.events.add('playerJoin', player => {
   player.setVariable('headmsg', '');
-  player.setVariable('aboveid', '');
 });
 
 mp.events.add('playerChat', (player, text) => {
