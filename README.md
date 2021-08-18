@@ -2,7 +2,7 @@
  
 Made for RAGEMP only tested on 1.1
 
-[rage.mp post](https://rage.mp/files/file/366-js-chat-messages-above-head-and-typing-indicator/) (still not approved lol)
+[rage.mp post](https://rage.mp/files/file/366-js-chat-messages-above-head-and-typing-indicator/)
 
 ## Description
 I made this by using [heyMad](https://rage.mp/profile/30788-heymad/)'s guide for online IDS (originally made by [hartority](https://rage.mp/profile/46-hartority/)) as a base for the above head text and used some getVariable and setVariable and boom here we are
